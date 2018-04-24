@@ -1,4 +1,4 @@
-# The thorny road of Swift & Objective-C
+# Swift/Objective-C Notes
 
 On the way of learning Swift and Objective-C is like a thorny road full of sweat and tears. I am still learning and I am never give up.
 
