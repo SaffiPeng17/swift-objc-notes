@@ -7,13 +7,26 @@
   * The test account is a virtual account which does not actually exist. So it cannot be the same as any exist Apple ID.
   * Manage all Sandbox test account on **iTunes Connect** of Apple Developer.
 
-  
+
 * Steps for IAP function.
   1. Get **Product ID** from APP.
   2. Get **Product** information from Apple Store by **Product ID**.
   3. Send request to pay **Product** on Apple Store.
   4. Get the result of paying from Apple Store.
   5. Get receipt & verify.
+
+
+* 手機小額付費
+  * 需要向手機電信商要求開通小額付費功能
+  * 手機上設定IAP付款方式為 : 電信小額付費
+  * 對於App來說，不論使用者設定哪種功能付款，IAP都是與Apple溝通要求進行付款
+    * 手機設定信用卡付款
+
+        **App** ↔ **Apple** ↔ ***信用卡公司***
+
+    * 手機設定電信小額付費
+
+        **App** ↔ **Apple** ↔ ***電信公司***
 
 #### ✢ References
 
@@ -39,6 +52,3 @@
 * [iOS开发 内购流程 手把手教你还不学？](http://www.jianshu.com/p/d9d742e82188)
 * [iOS内购—— In-App Purchase（消耗型）](http://www.jianshu.com/p/321efc31078d)
 * [In-App Purchase Walk Through](http://openfibers.github.io/blog/2015/02/28/in-app-purchase-walk-through/)
-
-
-
