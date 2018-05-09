@@ -2,7 +2,7 @@
 
 On the way of learning Swift and Objective-C is like a thorny road full of sweat and tears. I am still learning and I never give up.
 
-Haha, actually it is just my learning note. After I struggle wfro problems, error, mess information, I leave something I have known. Maybe someone can find their answer here. Good Luck.
+Haha, actually it is just my learning note. After I struggle with problems, error, mess information, I leave something I have known. Maybe someone can find their answer here. Good Luck.
 
 
 #### Target
