@@ -40,6 +40,14 @@
         ....
     @end
     ```
+    
+* Reused Table Cell
+
+    1. Define the UI style of the cells. (Class MyCell)
+    2. Define every cell as MyCell.
+    3. Get data & fill data into every cell.
+
+    **重複使用Cell會節省memory，理由是：比如資料總共有10筆，畫面一次顯示5筆，則被cache住的memory就只會有5筆，就算是經過scroll出現新的cell，cache住的memory就只有5個cell**
 
 #### ✢ References
 * [iOS学习之Table View的简单使用](http://blog.csdn.net/totogo2010/article/details/7642908)
