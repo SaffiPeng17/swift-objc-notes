@@ -69,6 +69,10 @@
 
 * [Swift之贪婪的UIButton](https://00red.com/blog/2015/07/28/teacher-swift-ui-button/)
 
+#### ✢ NSArray vs NSSet
+
+* [When is it better to use an NSSet over an NSArray?](https://stackoverflow.com/questions/10997404/when-is-it-better-to-use-an-nsset-over-an-nsarray)
+
 #### ✢ UIDevice
 
 * [iOS获取设备型号和App版本号等信息（OC＋Swift）](http://www.jianshu.com/p/0d84e6852c5a)
