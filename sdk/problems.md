@@ -24,7 +24,7 @@
 
 * [MobileGestaltSupport](https://intellij-support.jetbrains.com/hc/en-us/community/posts/115000191784-MobileGestaltSupport)
 * [libMobileGestalt MobileGestaltSupport.m:153 MobileGestalt.c:550 Xcode Console](http://howtodevelop.eu/question/xcode-ios-libmobilegestalt-mobilegestaltsupport-m-153-mobilegestalt-c-550-xcode-console,193120)
-* Cannot find the right solution for now and there many people have this problem. Seem like a issue in XCode, wait for Apple to solve it. \(**TRACING: 2017-8-18**\) 
+* Cannot find the right solution for now and there many people have this problem. Seem like a issue in XCode, wait for Apple to solve it. \(**TRACING: 2017-8-18**\)
 
 #### ❄ dyld: Library not loaded: @rpath/\(.framework\)/\(framework\) Referenced from: ~/Bundle/Application/D9E2EBAB-21F4-4E41-BD2E-43D4C1CC71AF/\(.app\)/\(project\) Reason: image not found
 
@@ -85,5 +85,9 @@ The Scheme of framework have to be setting all to "Release".
 * [理解Bitcode：一种中间代码](http://www.cocoachina.com/ios/20150818/13078.html)
 * [关于invalid bitcode signature（ linker command failed with exit code 1）](http://www.jianshu.com/p/6b69f30243a1)
 
+* [Xcode beta error: “iPhone has denied the launch request”](https://stackoverflow.com/questions/45421179/xcode-beta-error-iphone-has-denied-the-launch-request)
+* [Could not launch，has denied the launch request.](https://blog.csdn.net/lee727n/article/details/78921845)
 
+* [How to resolve “Missing Info.plist key … NSPhotoLibraryUsageDescription”](https://stackoverflow.com/questions/41611987/how-to-resolve-missing-info-plist-key-nsphotolibraryusagedescription)
 
+* [Invalid Swift Support / The SwiftSupport folder is empty](https://stackoverflow.com/questions/32559204/invalid-swift-support-the-swiftsupport-folder-is-empty#comment55664690_32685513)

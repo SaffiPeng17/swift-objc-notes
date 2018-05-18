@@ -7,6 +7,9 @@
 * [Swift 學習筆記](https://hugolu.gitbooks.io/learn-swift/content/)
 * [iPhone Application Programming Guild (note1)](http://psvsps2.blogspot.tw/2010/04/iphone-application-programming-guild_23.html)
 
+#### ✢ Debug
+* [iOS如何实时查看App运行日志](http://www.cocoachina.com/ios/20170719/19933.html)
+* [使用 Xcode 查看 iPhone 即時 Log 資料](https://blog.longwin.com.tw/2018/04/xcode-monitor-iphone-log-data-2018/)
 
 #### ✢ Design Pattern
 * [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52), [iOS 架构模式 - 简述 MVC, MVP, MVVM 和 VIPER (译)](https://blog.coding.net/blog/ios-architecture-patterns)
@@ -92,5 +95,3 @@
 
 #### ✢ Enum
 * [Day-14 Swift 語法(10) - 多種用途的 Enumerations](https://ithelp.ithome.com.tw/articles/10195397)
-
-
