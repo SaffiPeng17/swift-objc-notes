@@ -42,3 +42,4 @@ request.returnsObjectsAsFaults = true
 * [Core Data](https://itisjoe.gitbooks.io/swiftgo/content/database/coredata.html)
 * [【 IOS Swift 】CoreData 儲存、查詢、修改、刪除](http://zfejdje.blogspot.tw/2016/01/ios-coredata-save.html)
 * [Core Data 使用教學(一)](http://www.iotec.tw/?p=170)
+* [[Xcode][Swift3] 使用 CoreData 儲存資料](https://disp.cc/b/11-9ZSr)
